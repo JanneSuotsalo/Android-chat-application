@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EasyChat</string>
+    <string name="send_button">Send</string>
+    <string name="edit_text">"   Type here"</string>
+</resources>
